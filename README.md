@@ -1,4 +1,4 @@
-# Проекты над которыv я работала на
+ # Проекты над которыми я работала на курсе “Инженер по тестированию”
 
 ## Веб-приложение “Яндекс Маршруты”:
 
@@ -30,5 +30,12 @@
 
 * [Составила тестовую документацию для API](https://docs.google.com/spreadsheets/d/1F8SE6a7Z4cIZ7s5oWJ0BI7PsOXRV500mpeIZSzUx0Os/edit?usp=sharing)
 * [Провела проверки по спроектированной документации и зафиксировала найденные ошибки в YouTrack](https://elenaproshina-qa.youtrack.cloud/projects/27c9897b-c6d6-4167-a128-1606301fe88e?addwidget=%7B%22id%22%3A%22youtrack-issues-list%22%2C%22directive%22%3A%22widget-custom%22%2C%22config%22%3A%7B%22created%22%3A%222022-11-29T09%3A40%3A47.897Z%22%2C%22customWidgetConfig%22%3A%7B%22search%22%3A%22%23%7BSprint%203%7D%20%22%2C%22title%22%3A%22%22%2C%22refreshPeriod%22%3A0%2C%22youTrack%22%3A%7B%22id%22%3A%2294b8ee25-e3f2-4894-960a-5e22cca6f67f%22%2C%22homeUrl%22%3A%22%2F%22%7D%7D%7D%7D)
+
+
+
+
+
+
+
 
 
